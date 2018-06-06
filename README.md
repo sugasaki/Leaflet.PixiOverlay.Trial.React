@@ -21,6 +21,7 @@ LeafletとWebGLのライブラリであるPixi.jsの橋渡しをする「Leaflet
 
 Qiita解説は以下
 * [Leaflet.PixiOverlayをReactで使ってみる その１ - Qiita](https://qiita.com/sugasaki/items/19e77872dc7474570593)
+* [Leaflet.PixiOverlayをReactで使ってみる その２ - Qiita](https://qiita.com/sugasaki/items/1974eb2716116f0defe2)
 
 
 公式サイトは以下

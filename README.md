@@ -2,7 +2,7 @@
 
 ## React-Leaflet Example
 
-LeafletとWebGLのライブラリであるPixi.jsの橋渡しをするLeaflet.PixiOverlayをReactでやってみます。
+LeafletとWebGLのライブラリであるPixi.jsの橋渡しをする「Leaflet.PixiOverlay」をReactでやってみます。
 
 ## 環境
 2018.6.5時点

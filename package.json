@@ -7,10 +7,18 @@
     "react-dom": "^16.4.0",
     "react-scripts": "1.1.4"
   },
+  "devDependencies": {
+    "leaflet": "^1.3.1",
+    "leaflet-pixi-overlay": "^1.5.1",
+    "pixi.js": "^4.8.0"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
-  }
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "homepage": "https://sugasaki.github.io/leaflet-pixioverlay-trial-react/"
 }

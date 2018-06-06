@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import DrawMarker from './components/drawMarker';
+import ManyMarker from './components/manyMarkers';
 
 class App extends Component {
   componentDidMount() {
@@ -10,6 +11,7 @@ class App extends Component {
     return (
       <div className="App">
         <DrawMarker />
+        <ManyMarker />
       </div>
     );
   }

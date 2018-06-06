@@ -9,7 +9,7 @@ import * as PIXI from "pixi.js";
 import 'leaflet-pixi-overlay'
 
 //ParticleContainerの拡張用JSをロードする
-import './MarkerContainer'
+import '../js/MarkerContainer'
 
 
 export default class ManyMarker extends Component {

@@ -5,8 +5,13 @@
 LeafletとWebGLのライブラリであるPixi.jsの橋渡しをする「Leaflet.PixiOverlay」をReactでやってみます。
 
 ## 環境
-2018.6.5時点
-
+2018.6.6時点
+* "react": "^16.4.0",
+* "react-dom": "^16.4.0",
+* "react-scripts": "1.1.4"
+* "leaflet": "^1.3.1",
+* "leaflet-pixi-overlay": "^1.5.1",
+* "pixi.js": "^4.8.0"
 
 ## 結果・解説等
 
@@ -15,7 +20,7 @@ LeafletとWebGLのライブラリであるPixi.jsの橋渡しをする「Leaflet
 
 
 Qiita解説は以下
-* [Leaflet.PixiOverlayをReactで使ってみる - Qiita](https://qiita.com/sugasaki/items/19e77872dc7474570593)
+* [Leaflet.PixiOverlayをReactで使ってみる その１ - Qiita](https://qiita.com/sugasaki/items/19e77872dc7474570593)
 
 
 公式サイトは以下
